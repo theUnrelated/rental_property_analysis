@@ -18,6 +18,7 @@ There is a limit to the API calls when using, so do take note! I remember I was 
 
 ## Analysis
 Uploaded in ipynb files and they are probably kind of messy. Will probably tidy them up when I have the time in the future. 
+Includes regression and decision tree with variations e.g XG-boost etc. 
 
 ## DISCLAIMER
 This is something I did some time back and there are probably better ways to go about doing it, best practices etc etc now that Im looking at it again. Nevertheless, I'm probably going to leave much of it as it is unless there is a need for me to use this again. 
